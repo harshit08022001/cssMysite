@@ -1,0 +1,170 @@
+.Top
+{
+    background-color: #e4f9f5;
+}
+h1{
+    color:  #66BFBF;
+    margin: 0px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'MonteCarlo', cursive;
+}
+p{
+    margin:0px;
+    font-weight: 500;
+}
+body
+{
+    color:#40514E;
+    margin: 0px;
+    text-align:center;
+}
+
+
+
+.cloud2
+{
+    position : absolute;
+    
+}
+
+.cloud1
+{
+    margin-top: 59px;
+    position : relative;
+    left:200px;
+}
+
+
+.cpp
+{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+h2
+{
+    line-height: 2;
+    font-weight: normal;
+    color:  #66BFBF;
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1.5rem;
+    color:  #11999E;
+}
+
+a
+{
+    color:  #11999E;
+}
+
+.skill-row1
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skill-row2
+{
+    width: 50%;
+    margin: 200px auto 100px auto;
+    text-align: left;
+}
+
+.profilepic1
+{
+    width: 25%;
+}
+
+.profilepic2
+{
+   
+    width: 25%;
+    height: 25%;
+    margin: 10px 20px 0 0;
+    float: left;
+}
+.Intro
+{
+    width:30%;
+    margin:auto;
+}
+
+.profilepic3
+{
+   
+    width: 25%;
+    height: 25%;
+    margin: 10 auto;
+    float: right;
+}
+.bug
+{
+    margin-bottom: 150px;
+}
+
+hr
+{
+    border-style:dotted ;
+    width:10%;
+    border-width: 10px 0 0 0;
+    color:#EAF6F6;
+}
+
+.profile{
+      margin-bottom: 80px;
+}
+
+.Bottom
+{
+    margin-top: 100px;
+    background-color: #66BFBF;
+}
+
+.footer-link
+{
+    padding-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #098085;
+
+}
+
+.footer-link:hover
+{
+    color:#EAF6F6;
+}
+
+.copy-right
+{
+    margin-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.button {
+    background-color: #11999E;
+    margin-top: 30px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
+
+  .button:hover
+  {
+      background-color: #66BFBF;
+  }
+  .Middle
+  {
+      margin: 50px 0px;
+  }
